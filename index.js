@@ -1,4 +1,4 @@
-const sqlite=require('sqlite3');
-const postgres=require('pg');
+const sqlite = require("sqlite3");
+const postgres = require("pg");
 
-console.log('oknpm');
+console.log("It works!");
